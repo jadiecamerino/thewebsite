@@ -1,3 +1,3 @@
 # thewebsite
 actual website
-theme: minima
+theme: time machine
