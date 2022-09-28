@@ -13,5 +13,5 @@ p {text-align: center;}
 </head>
 
 <body>
-<h1> <strong>Welcome.</strong> </h1>
+<h1> <i>Welcome.<i> </h1>
 </body>
