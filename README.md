@@ -1,4 +1,3 @@
-<strong> HI </strong>
 <html>
 
 <head>
@@ -13,5 +12,8 @@ p {text-align: center;}
 </head>
 
 <body>
-<h1> <i>Welcome.<i> </h1>
+  <h1> <strong>HI</strong> </h1>
+  <p> <i>Welcome</i> </p>
 </body>
+
+<html>
