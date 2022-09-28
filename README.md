@@ -1,7 +1,3 @@
-# thewebsite
-actual website
-theme: time machine
-<!DOCTYPE>
 <html>
 
 <head>
