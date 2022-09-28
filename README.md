@@ -3,4 +3,19 @@ actual website
 theme: time machine
 <!DOCTYPE>
 <html>
-<h1> Hi </h1>
+
+<head>
+
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+</style>
+
+<title> awesome website </title>
+
+</head>
+
+<body>
+<h1> <strong>HI</strong> </h1>
+<p> Welcome. </p>
+</body>
