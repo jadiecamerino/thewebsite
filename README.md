@@ -7,7 +7,7 @@ h1 {text-align: center;}
 p {text-align: center;}
 </style>
   
-<title> awesome website </title>
+<title> About the GUItar </title>
 
 </head>
 
