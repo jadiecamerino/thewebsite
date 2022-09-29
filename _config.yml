@@ -1,5 +1,5 @@
 title: Website for Cool People 😎
-(only use if your cool)
+description: (only use if your cool)
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-minima
+theme: jekyll-theme-minimal
