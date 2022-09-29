@@ -1,8 +1,5 @@
 title: Website for Cool People 😎
-<style>
-description {text-align: center;}
-</style>
-description: (only use if your cool)
+(only use if your cool)
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
