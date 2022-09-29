@@ -13,7 +13,7 @@ p {text-align: center;}
 
 <body>
   
-  <h1> <strong>HI</strong> </h1>
+  <h1> <strong>HELLO</strong> </h1>
   <p> <i>Welcome</i> </p>
   
 </body>
