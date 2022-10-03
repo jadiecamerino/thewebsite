@@ -33,6 +33,7 @@
   <p> Chords and notes are what make up a song. Arranging them strategically allows you to create many different songs. 
   
   <h2>A good app to get started: <a href="https://yousician.com/lp/guitar-us?utm_source=google&utm_campaign=Yousician%20-%20Non%20Brand%20-%20Instrument%20-%20Guitar%20-%20Tier%201&utm_medium=cpc&utm_term=beginner%20how%20to%20play%20guitar&gclid=Cj0KCQjwkOqZBhDNARIsAACsbfJsVDpRO0AhfIzObC4Ru22pb7Q7XS7VJfwS7caUqgXqvTWXUxkqA1AaAhgZEALw_wcB">Yousician</a>
+    
 </body>
 
 <html>
