@@ -15,7 +15,7 @@ p {text-align: center;}
   
   <h1> <strong>This is a guitar.</strong> </h1>
   
-  <h2> This is the fretboard. </h2>
+  <h1> This is the fretboard. </h1>
   
   <h3> This is where you pluck/strum the strings. </h3>
   
