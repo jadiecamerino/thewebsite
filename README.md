@@ -1,12 +1,7 @@
 <html>
 
 <head>
-  
- <style>
-h1 {text-align: center;}
-p {text-align: center;}
-</style>
-  
+
 <title> GUItar Basics </title>
 
 </head>
